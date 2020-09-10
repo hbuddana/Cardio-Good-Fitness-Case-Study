@@ -11,3 +11,22 @@ The team identifies the following customer variables to study:
 7. average number of times the customer plans to use the treadmill each week.
 8. average number of miles the customer expects to walk/run each week.
 9. self-rated fitness on an 1-to-5 scale, where 1 is poor shape and 5 is excellent shape.
+
+## Highly Correlated Features -
+- (0.4) - Usage & Education.
+
+- (0.41) - Fitness & Education.
+
+- (0.52) - Usage & Income.
+
+- (0.54) - Fitness & Income.
+
+- (0.54) - Income & Miles.
+
+- (0.63) - Income & Education.
+
+- (0.67) - Fitness & Usage.
+
+- (0.76) - Usage & Miles.
+
+- (0.79) - Fitness & Miles.
