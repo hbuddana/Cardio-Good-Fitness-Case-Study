@@ -12,7 +12,7 @@ The team identifies the following customer variables to study:
 8. average number of miles the customer expects to walk/run each week.
 9. self-rated fitness on an 1-to-5 scale, where 1 is poor shape and 5 is excellent shape.
 
-## Highly Correlated Features -
+## Highly Correlated Features - 🔗
 - (0.4) - Usage & Education.
 
 - (0.41) - Fitness & Education.
